@@ -1,0 +1,21 @@
+body {
+    background-image:url('pexels-mudassir-ali-2680270.jpg');
+  }
+  form{
+    color: antiquewhite;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+    font-weight:1000px;
+  }
+  h1{
+    color:bisque;
+    font-size: 64px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+  h4{
+    color: aquamarine;
+    font-size:64px;
+    text-align: center;
+
+}
